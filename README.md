@@ -23,7 +23,7 @@ pip install -e . --no-build-isolation
 ```
 
 You’ll need:
-1. CUDA toolkit installed
+1. CUDA toolkit 
 2. PyTorch with CUDA support
 3. A working C++ compiler (MSVC on Windows, gcc/clang on Linux/Mac)
 
